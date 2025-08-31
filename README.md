@@ -105,13 +105,30 @@ Screenshots available in the /images
  folder.
 
 # Login Page:
-![ALT text](
+![ALT text](images/02.png)
 
-Movie Selection Page
+![ALT text](images/03.png)
 
-Seat Booking
+# Movie Selection Page:
 
-Payment Gateway
+![ALT text](images/5.png)
+
+![ALT text](images/6.png)
+
+
+# Seat Booking:
+
+![ALT text](images/8.png)
+
+![ALT text](images/9.png)
+
+![ALT text](images/10.png)
+
+# Payment Gateway:
+
+![ALT text](images/12.png)
+
+![ALT text](images/13.png)
 
 Digital Ticket Confirmation
 
